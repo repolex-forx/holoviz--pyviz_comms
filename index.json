@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "pyviz_comms",
+  "versions": [
+    {
+      "commit": "666f04709f8935f26b1beba6a79189dd17f929ea",
+      "tag": "",
+      "parsed_at": "2026-10-16T23:41:47.461520+00:00"
+    }
+  ]
+}
